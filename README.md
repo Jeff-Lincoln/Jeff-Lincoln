@@ -18,7 +18,7 @@ I'm Jeff Lincoln Gitari, a passionate software developer on a journey to explore
 
 **Web Development:** 🌐 RESTful APIs | 🛠️ Webpack
 
-**Cloud Platforms:** ☁️ AWS | 🚀 Heroku
+**Cloud Platforms:** ☁️ AWS
 
 **Testing:** 🧪 Jest | 📊 Postman
 
