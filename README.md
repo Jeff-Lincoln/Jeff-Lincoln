@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeff Lincoln
 ====================================================================================================================================
 
-Software Engineer And Developer
+Software Engineer
 -------------------------------
 
 "Creative and driven Software Engineer skilled in JavaScript, TypeScript, React, and cloud technologies like Microsoft Azure. With hands-on experience in building innovative web and mobile apps—like a Disney+ clone and a dynamic portfolio website—I'm passionate about crafting high-performance solutions. A collaborative team player with sharp problem-solving skills, I’m always ready to push boundaries and deliver top-tier results. Let's create something amazing together!"
