@@ -1,21 +1,155 @@
+Absolutely — here's a **high-impact, creative, senior-level GitHub README** crafted from your old README + your full resume + your real project experience + your GitHub repos.
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jeff Lincoln!
-====================================================================================================================================
+It’s **professional**, **fun**, **recruiter-friendly**, and **skill-packed**, but **not too long**.
+You can copy-paste directly into your `README.md`.
 
-Software Engineer
--------------------------------
+---
 
-"Creative and driven Software Engineer skilled in JavaScript, TypeScript, React, and cloud technologies like Microsoft Azure. With hands-on experience in building innovative web and mobile apps—like a Disney+ clone and a dynamic portfolio website—I'm passionate about crafting high-performance solutions. A collaborative team player with sharp problem-solving skills, I’m always ready to push boundaries and deliver top-tier results. Let's create something amazing together!"
+# 🚀 Hi, I’m **Jeff Lincoln** — Python Engineer • LLM Agentic Trainer • Senior Software Engineer
 
-*   🌍  I'm based in Kenya
-*   🖥️  See my portfolio at [MyPortfolio](http://jefflincoln.netlify.app/)
-*   ✉️  You can contact me at [jefflincoln504@gmail.com](mailto:jefflincoln504@gmail.com)
-*   🚀  I'm currently working on [Assistly Ai chatbot](http://github.com/Jeff-Lincoln/Assistly-ai-chatbot)
-*   🧠  I'm learning Expo
-*   🤝  I'm open to collaborating on TypeScript and Js projects
-*   ⚡  I'm Him!### Skills 
+🌍 *Building intelligent systems, one JSON function-call at a time.*
+
+---
+
+### 👨‍💻 About Me
+
+I’m a **Senior Software Engineer** and **Python/AI Engineer** with 5+ years of experience turning complex ideas into production-ready apps, pipelines, and AI systems.
+I specialize in:
+
+* 🧠 **Agentic AI workflows & LLM function-calling**
+* 🐍 **Python pipelines & dataset engineering**
+* 📱 **Mobile & Web dev (React Native, Next.js)**
+* ⚙️ **High-performance backend systems (Node.js, Python)**
+* 📊 **Data validation, consistency & automation**
+* 🎯 **Building real products used by thousands**
+
+When I’m not structuring JSON like it's an Olympic sport 🥇, I’m leading engineering teams, automating everything that moves, or building cool AI projects.
+
+---
+
+## 💼 Current Status
+
+* 🔭 **Working on:** Assistly AI – a full AI-powered chatbot system
+* 🌱 **Learning:** Advanced Expo & AI workflow optimization
+* 🤝 **Open to:** Senior Python / AI / Full-stack roles & collaborations
+* ⚡ Fun fact: I debug code faster with 🍵 chai than with coffee.
+
+---
+
+# 🏆 Featured Projects (Real Production Work)
+
+### ✈️ **Multilingual Flight Booking Chatbot** – Agentic AI System
+
+**Python • Dialogflow CX • JSON APIs • NLP • SQL**
+AI system for multilingual flight automation (English/Kiswahili/Somali) with structured JSON workflows, GDS integration, consistent session pipelines, and high-accuracy validation.
+
+---
+
+### 🐄 **Northern Eastern Kenya Livestock Market**
+
+**TypeScript • Python • Node.js • SQL** — *5,000+ users*
+Real-time bidding, payment processing, API workflows, and Python data pipelines optimized for speed & accuracy.
+
+---
+
+### 📞 **Tubonge Video Calling App**
+
+**TypeScript • WebSockets • JSON Pipelines • SQL**
+Real-time communication, structured session workflows, monitoring pipelines, and concurrency handling for 1,000+ active users.
+
+---
+
+### 🌍 **TravellingGPT**
+
+**AI Integration • Next.js • Node.js • Python**
+95% user satisfaction — seamless AI trip assistant with validated LLM workflows.
+
+---
+
+### 🚚 **MoveEasy (2.0)**
+
+**Mapbox • TypeScript • Python • SQL**
+Live GPS tracking, optimized route pipelines, task automation, and mapping intelligence.
+
+---
+
+# 🧠 Technical Skills
+
+### **Core Engineering**
+
+✔ Python (Pipelines, Data Validation, Automation)
+✔ JavaScript / TypeScript
+✔ SQL (Advanced Querying, Data Integrity)
+✔ Node.js, React, React Native (Expo), Next.js
+✔ C# / Kotlin / C++ basics
+
+### **AI & Agentic Systems**
+
+✔ LLM Function Calling
+✔ JSON Task Design & Validation
+✔ NLP & Prompt Engineering
+✔ Dialogflow CX
+✔ AI Data Workflows
+
+### **Backend & Cloud**
+
+✔ API Development
+✔ Docker
+✔ Supabase
+✔ Firebase
+✔ PostgreSQL, MySQL, MongoDB
+✔ AWS / Azure / GCP
+
+### **Tools**
+
+✔ VS Code
+✔ Git & GitHub
+✔ Data Processing Frameworks
+✔ CI/CD Workflows
+
+---
+
+# 🛠️ My GitHub in One Sentence
+
+**“If it involves Python, TypeScript, AI, automation, or building something the world can actually use — I’m already doing it.”**
+
+---
+
+# 🎨 Skills Wall
+
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="36" height="36" alt="Remix" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
-  
+<!-- Paste back your icons here (kept for Github aesthetics) -->
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"/></a>
+<a href="https://supabase.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40"/></a>
+<a href="https://graphql.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/></a>
+<a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40"/></a>
+</p>
+
+---
+
+# 📫 Reach Me
+
+📧 **[jefflincoln504@gmail.com](mailto:jefflincoln504@gmail.com)**
+🌐 Portfolio → **jefflincoln.netlify.app**
+💼 LinkedIn → **linkedin.com/in/jeff-gitari-98b970228/**
+☕ Want to collaborate? → *I’m always down to build cool things.*
+
+---
+
+### 🏁 Final Thought
+
+> “Good code is poetry. Great systems are magic. I build both.” ✨
+
+If you want, I can also:
+✅ add GitHub stats cards
+✅ add contribution streaks
+✅ add a dark/light mode banner
+✅ add animated sections
+Just tell me!
